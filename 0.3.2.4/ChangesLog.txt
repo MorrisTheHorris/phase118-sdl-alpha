@@ -1,0 +1,293 @@
+02 March 2014
+   Version 0.3.2 of Phase118_SDL
+
+     Change log:
+        -Fixed: Tile array size
+        -Added: Fourth and fifth dimensions to the world array
+        -Added: Building array
+        -Added: Level dimension to tile array
+        -Documented: Array use
+        -Added: Saving of arrays
+        -Added: Inner game shadow
+        -Added: Construction time
+
+23 February 2014
+   Version 0.3.0 of Phase118_SDL
+
+     Change log:
+        -Added: Yields
+        -Added: Tile names
+        -Added: Obstacle detection
+        -Added: Mouse minimap movement
+        -Documented: Minimap mouse code
+
+22 February 2014
+   Version 0.2.13 of Phase118_SDL
+
+     Change log:
+        -Updated: Dirt tile texture
+        -Added: Sand
+        -Added: Beaches
+        -Added: Data Array
+        -Added: Info Box (right click)
+        -Fixed: Info Box clipping UI
+        -Updated: Info Box Alpha
+
+16 February 2014
+   Version 0.2.12 of Phase118_SDL
+
+     Change log:
+        -Fixed: Pipe joining behaviour
+        -Updated: Pipes on map
+        -Documented: World and map code
+        -Documented: Lots more in the main loop
+        -Removed: Unused L pipe
+
+15 February 2014
+   Version 0.2.11 of Phase118_SDL
+
+     Change log:
+        -Added: Liquid Collector
+        -Added: Some int string concadenator functions
+        -Fixed: Text at low resolutions
+        -Fixed: Message Box layout
+        -Changed: Message Box size
+        -Added: Building cost display
+        -Added: Sample Elements
+        -Added: Pipes
+        -Added: NS Pipe Orientation
+        -Added: NW Pipe Orientation
+        -Added: Pipe transparency
+        -Fixed: Gas collector texture issue
+        -Changed: Message Box size again
+        -Cleaned: Message Box info
+        -Removed: Pipes from build list
+        -Cleaned: Global listing
+
+12 February 2014
+   Version 0.2.10 of Phase118_SDL
+
+     Change log:
+        -Added: Gas Storage
+        -Added: Radio Storage
+        -Added: Solid Collector
+        -Added: Gas Collector
+        -Fixed: Resources reset on new game
+
+12 February 2014
+   Version 0.2.9 of Phase118_SDL
+
+     Change log:
+        -Added: Liquid Storage
+        -Added: Test Material resource
+        -Added: Build object selection
+
+
+
+11 February 2014
+   Version 0.2.8 of Phase118_SDL
+
+     
+	Change log:
+        
+		-Added: Building
+        
+		-Added: Money
+        
+		-Added: Solid Storage Building
+        
+		-Added: Ghosting
+        
+		-Added: Message Box
+
+
+
+10 February 2014
+   Version 0.2.7 of Phase118_SDL
+
+     
+	Change log:
+        
+		-Added: Resolution scaling
+        
+		-Changed: Default resolution to 1280x720 (RS of 1.3333)
+        
+		-Changed: Res to 1920x1080 for nice looks (RS of 2)
+        
+		-Fixed: Scaling errors
+
+08 February 2014
+   Version 0.2.6 of Phase118_SDL
+
+     
+	Change log:
+        
+		-Added: Oceans
+        
+		-Added: Grass and trees
+        
+		-Added: Forests
+
+07 February 2014
+   Version 0.2.5 of Phase118_SDL
+
+     
+	Change log:
+        
+		-Added: Water
+        
+		-Added: Minimap
+        
+		-Changed: Map size
+        
+		-Converted: Arrays to higher dimensions
+
+
+
+06 February 2014
+   Version 0.2.4 of Phase118_SDL
+
+     
+	Change log:
+        
+		-Fixed: Random generation seed
+        
+		-Added: Quit functionality from game
+        
+		-Added: Lower buttons
+        
+		-Added: Company name
+        
+		-Added: Camera movement
+
+
+
+06 February 2014
+   Version 0.2.3 of Phase118_SDL
+
+
+	Change log:
+        
+		-Added: New game 'music'
+        
+		-Added: Dirt tile
+        
+		-Added: Random generation
+
+
+
+05 February 2014
+   Version 0.2.2 of Phase118_SDL
+
+     
+	Change log:
+        
+		-Removed: Render Test
+        
+		-Added: Grass tile render
+        
+		-Added: Game Cursor
+
+
+
+05 February 2014
+   Version 0.2.1 of Phase118_SDL
+
+     
+	Change log:
+        
+		-Added: Render test
+
+
+03 February 2014
+   Version 0.1.9 of Phase118_SDL
+
+     
+	Change log:
+        
+		-Added: Version to title screen
+
+
+
+03 February 2014
+   Version 0.1.8 of Phase118_SDL
+
+     
+	Change log:
+        
+		-Added: Demo submenu
+        
+		-Added: Colours for disabled options
+        
+		-Added: Demo>Erratic submenu
+        
+		-Added: "Game"
+
+
+
+01 February 2014
+   Version 0.1.7 of Phase118_SDL
+
+
+	Change log:
+        
+		-Added: Hover colour change
+   
+		-Added: States
+
+		-Added: Top button response
+
+
+
+01 February 2014
+   Version 0.1.6 of Phase118_SDL
+
+
+	Change log:
+		-Fixed: Quit button so it actually works now
+
+01 February 2014
+   Version 0.1.4 of Phase118_SDL
+
+
+	Change log:
+		-Cleaned: Code a tiny bit. Not object oriented yet.
+
+
+
+01 February 2014
+   Version 0.1.4 of Phase118_SDL
+
+     
+	Change log:
+     
+		-Removed: Cursor
+
+
+
+01 February 2014
+   Version 0.1.4 of Phase118_SDL
+
+
+	Change log:
+		-New: Cursor
+
+
+
+01 February 2014
+   Version 0.1.4 of Phase118_SDL
+
+
+	Change log:
+		-Added: Font
+		-Added: Menu Options
+		-Added: Music
+
+29 January 2014
+	   Version 0.1.1 of Phase118_SDL
+
+
+	Change log:
+
+		-Added: Title Image
+

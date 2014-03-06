@@ -1,0 +1,1079 @@
+# depslib dependency file v1.0
+1391675126 source:c:\users\ajhj\desktop\code\c++\phase118_sdl\main.cpp
+	"include.h"
+	"globals.h"
+	"functions.h"
+
+1391675616 c:\users\ajhj\desktop\code\c++\phase118_sdl\include.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<math.h>
+	<sstream>
+	<cstdlib>
+	<time.h>
+
+1391579220 c:\users\ajhj\desktop\code\c++\phase118_sdl\load.h
+
+1391579336 c:\users\ajhj\desktop\code\c++\phase118_sdl\loadtopointer.h
+
+1391501574 c:\users\ajhj\desktop\code\c++\phase118_sdl\rendersimple.h
+
+1391656366 c:\users\ajhj\desktop\code\c++\phase118_sdl\mouseaction.h
+
+1318792294 c:\users\ajhj\desktop\code\c++\phase118_sdl\leaker.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<memory>
+
+1391658152 c:\users\ajhj\desktop\code\c++\phase118_sdl\renderspecific.h
+
+1391655984 source:e:\ist\game\phase118_sdl\main.cpp
+	"include.h"
+	"globals.h"
+	"functions.h"
+
+1391655320 e:\ist\game\phase118_sdl\include.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<math.h>
+	<sstream>
+	<cstdlib>
+	<time.h>
+
+1391575736 e:\ist\game\phase118_sdl\loadtopointer.h
+
+1391497974 e:\ist\game\phase118_sdl\rendersimple.h
+
+1391652766 e:\ist\game\phase118_sdl\mouseaction.h
+
+1391654552 e:\ist\game\phase118_sdl\renderspecific.h
+
+1391656392 source:c:\users\ajhj\desktop\code\c++\phase118_sdl\game\interfacehandler.cpp
+	"interfaceHandler.h"
+	"../include.h"
+	"../renderSimple.h"
+	"../mouseAction.h"
+
+1391656298 c:\users\ajhj\desktop\code\c++\phase118_sdl\game\interfacehandler.h
+	<string>
+
+1391674939 c:\users\ajhj\desktop\code\c++\phase118_sdl\globals.h
+
+1391671086 c:\users\ajhj\desktop\code\c++\phase118_sdl\functions.h
+	"loadToPointer.h"
+	"load.h"
+	"renderSimple.h"
+	"mouseAction.h"
+	"renderSpecific.h"
+	"interfaceHandler.h"
+	"worldArray.h"
+
+1391652792 source:e:\ist\game\phase118_sdl\game\interfacehandler.cpp
+	"interfaceHandler.h"
+	"../include.h"
+	"../renderSimple.h"
+	"../mouseAction.h"
+
+1391652698 e:\ist\game\phase118_sdl\game\interfacehandler.h
+	<string>
+
+1391655306 e:\ist\game\phase118_sdl\globals.h
+
+1391575656 e:\ist\game\phase118_sdl\functions.h
+	"loadToPointer.h"
+	"load.h"
+	"renderSimple.h"
+	"mouseAction.h"
+	"renderSpecific.h"
+	"interfaceHandler.h"
+
+1391575620 e:\ist\game\phase118_sdl\load.h
+
+1391674421 c:\users\ajhj\desktop\code\c++\phase118_sdl\worldarray.h
+
+1391656392 source:e:\ist\game\game versions\0.2.4.7\game\interfacehandler.cpp
+	"interfaceHandler.h"
+	"../include.h"
+	"../renderSimple.h"
+	"../mouseAction.h"
+
+1391656298 e:\ist\game\game versions\0.2.4.7\game\interfacehandler.h
+	<string>
+
+1391759034 e:\ist\game\game versions\0.2.4.7\include.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<math.h>
+	<sstream>
+	<cstdlib>
+	<time.h>
+
+1391501574 e:\ist\game\game versions\0.2.4.7\rendersimple.h
+
+1391656366 e:\ist\game\game versions\0.2.4.7\mouseaction.h
+
+1391758942 source:e:\ist\game\game versions\0.2.4.7\main.cpp
+	"include.h"
+	"globals.h"
+	"functions.h"
+
+1391759034 e:\ist\game\game versions\0.2.4.7\globals.h
+
+1391671088 e:\ist\game\game versions\0.2.4.7\functions.h
+	"loadToPointer.h"
+	"load.h"
+	"renderSimple.h"
+	"mouseAction.h"
+	"renderSpecific.h"
+	"interfaceHandler.h"
+	"worldArray.h"
+
+1391579336 e:\ist\game\game versions\0.2.4.7\loadtopointer.h
+
+1391579220 e:\ist\game\game versions\0.2.4.7\load.h
+
+1391658152 e:\ist\game\game versions\0.2.4.7\renderspecific.h
+
+1391758942 e:\ist\game\game versions\0.2.4.7\worldarray.h
+
+1391656392 source:e:\ist\game\game versions\0.2.4.7_2\game\interfacehandler.cpp
+	"interfaceHandler.h"
+	"../include.h"
+	"../renderSimple.h"
+	"../mouseAction.h"
+
+1391656298 e:\ist\game\game versions\0.2.4.7_2\game\interfacehandler.h
+	<string>
+
+1391759034 e:\ist\game\game versions\0.2.4.7_2\include.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<math.h>
+	<sstream>
+	<cstdlib>
+	<time.h>
+
+1391501574 e:\ist\game\game versions\0.2.4.7_2\rendersimple.h
+
+1391656366 e:\ist\game\game versions\0.2.4.7_2\mouseaction.h
+
+1391656392 source:e:\ist\game\game versions\0.2.5.9\game\interfacehandler.cpp
+	"interfaceHandler.h"
+	"../include.h"
+	"../renderSimple.h"
+	"../mouseAction.h"
+
+1391656298 e:\ist\game\game versions\0.2.5.9\game\interfacehandler.h
+	<string>
+
+1391835814 e:\ist\game\game versions\0.2.5.9\include.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<math.h>
+	<sstream>
+	<cstdlib>
+	<time.h>
+
+1391501574 e:\ist\game\game versions\0.2.5.9\rendersimple.h
+
+1391656366 e:\ist\game\game versions\0.2.5.9\mouseaction.h
+
+1391836622 source:e:\ist\game\game versions\0.2.5.9\main.cpp
+	"include.h"
+	"globals.h"
+	"functions.h"
+
+1391836950 e:\ist\game\game versions\0.2.5.9\globals.h
+	<iostream>
+	"version.h"
+
+1391761550 e:\ist\game\game versions\0.2.5.9\functions.h
+	"loadToPointer.h"
+	"load.h"
+	"renderSimple.h"
+	"mouseAction.h"
+	"renderSpecific.h"
+	"interfaceHandler.h"
+	"worldArray.h"
+	"probability.h"
+
+1391579336 e:\ist\game\game versions\0.2.5.9\loadtopointer.h
+
+1391579220 e:\ist\game\game versions\0.2.5.9\load.h
+
+1391658152 e:\ist\game\game versions\0.2.5.9\renderspecific.h
+
+1391835814 e:\ist\game\game versions\0.2.5.9\worldarray.h
+
+1391836404 e:\ist\game\game versions\0.2.5.9\probability.h
+	<cstdlib>
+	<iostream>
+
+1391836696 e:\ist\game\game versions\0.2.5.9\version.h
+
+1392014818 source:e:\ist\game\game versions\0.2.6.12\game\interfacehandler.cpp
+	"interfaceHandler.h"
+	"../include.h"
+	"../renderSimple.h"
+	"../mouseAction.h"
+
+1391656298 e:\ist\game\game versions\0.2.6.12\game\interfacehandler.h
+	<string>
+
+1391980940 e:\ist\game\game versions\0.2.6.12\include.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<math.h>
+	<sstream>
+	<cstdlib>
+	<time.h>
+
+1391501574 e:\ist\game\game versions\0.2.6.12\rendersimple.h
+
+1392015948 e:\ist\game\game versions\0.2.6.12\mouseaction.h
+
+1392015544 source:e:\ist\game\game versions\0.2.6.12\main.cpp
+	"include.h"
+	"globals.h"
+	"functions.h"
+
+1392065770 e:\ist\game\game versions\0.2.6.12\globals.h
+
+1391761550 e:\ist\game\game versions\0.2.6.12\functions.h
+	"loadToPointer.h"
+	"load.h"
+	"renderSimple.h"
+	"mouseAction.h"
+	"renderSpecific.h"
+	"interfaceHandler.h"
+	"worldArray.h"
+	"probability.h"
+
+1391579336 e:\ist\game\game versions\0.2.6.12\loadtopointer.h
+
+1391579220 e:\ist\game\game versions\0.2.6.12\load.h
+
+1392015544 e:\ist\game\game versions\0.2.6.12\renderspecific.h
+
+1391835814 e:\ist\game\game versions\0.2.6.12\worldarray.h
+
+1391836404 e:\ist\game\game versions\0.2.6.12\probability.h
+	<cstdlib>
+	<iostream>
+
+1392103718 source:e:\ist\game\game versions\0.2.7.13\game\interfacehandler.cpp
+	"interfaceHandler.h"
+	"../include.h"
+	"../renderSimple.h"
+	"../mouseAction.h"
+
+1392068766 e:\ist\game\game versions\0.2.7.13\game\interfacehandler.h
+	<string>
+
+1392105148 e:\ist\game\game versions\0.2.7.13\include.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<math.h>
+	<sstream>
+	<cstdlib>
+	<time.h>
+
+1392103756 e:\ist\game\game versions\0.2.7.13\rendersimple.h
+
+1392103718 e:\ist\game\game versions\0.2.7.13\mouseaction.h
+
+1392104828 source:e:\ist\game\game versions\0.2.7.13\main.cpp
+	"include.h"
+	"globals.h"
+	"functions.h"
+
+1392102044 e:\ist\game\game versions\0.2.7.13\globals.h
+
+1392104634 e:\ist\game\game versions\0.2.7.13\functions.h
+	"loadToPointer.h"
+	"renderSimple.h"
+	"mouseAction.h"
+	"renderSpecific.h"
+	"interfaceHandler.h"
+	"worldArray.h"
+	"probability.h"
+	"worldGenerator.h"
+	"buildings.h"
+
+1391579336 e:\ist\game\game versions\0.2.7.13\loadtopointer.h
+
+1391579220 e:\ist\game\game versions\0.2.7.13\load.h
+
+1392103718 e:\ist\game\game versions\0.2.7.13\renderspecific.h
+
+1392066648 e:\ist\game\game versions\0.2.7.13\worldarray.h
+
+1392066496 e:\ist\game\game versions\0.2.7.13\probability.h
+	<cstdlib>
+	<iostream>
+
+1392017066 source:e:\ist\game\game versions\0.2.7.13\game\worldgenerator.cpp
+	"worldGenerator.h"
+	"../include.h"
+	"../probability.h"
+	"../worldArray.h"
+
+1392016986 e:\ist\game\game versions\0.2.7.13\game\worldgenerator.h
+
+1392104882 e:\ist\game\game versions\0.2.7.13\buildings.h
+
+1392155700 source:e:\ist\game\game versions\0.2.8.14\game\interfacehandler.cpp
+	"interfaceHandler.h"
+	"../include.h"
+	"../renderSimple.h"
+	"../mouseAction.h"
+
+1392155676 e:\ist\game\game versions\0.2.8.14\game\interfacehandler.h
+	<string>
+
+1392155218 e:\ist\game\game versions\0.2.8.14\include.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<math.h>
+	<sstream>
+	<cstdlib>
+	<time.h>
+
+1392103756 e:\ist\game\game versions\0.2.8.14\rendersimple.h
+
+1392103718 e:\ist\game\game versions\0.2.8.14\mouseaction.h
+
+1392017066 source:e:\ist\game\game versions\0.2.8.14\game\worldgenerator.cpp
+	"worldGenerator.h"
+	"../include.h"
+	"../probability.h"
+	"../worldArray.h"
+
+1392016986 e:\ist\game\game versions\0.2.8.14\game\worldgenerator.h
+
+1392066496 e:\ist\game\game versions\0.2.8.14\probability.h
+	<cstdlib>
+	<iostream>
+
+1392066648 e:\ist\game\game versions\0.2.8.14\worldarray.h
+
+1392155630 source:e:\ist\game\game versions\0.2.8.14\main.cpp
+	"include.h"
+	"globals.h"
+	"functions.h"
+
+1392155216 e:\ist\game\game versions\0.2.8.14\globals.h
+
+1392155558 e:\ist\game\game versions\0.2.8.14\functions.h
+	"loadToPointer.h"
+	"renderSimple.h"
+	"mouseAction.h"
+	"renderSpecific.h"
+	"interfaceHandler.h"
+	"worldArray.h"
+	"probability.h"
+	"worldGenerator.h"
+	"buildings.h"
+	"stringManipulation.h"
+
+1391579336 e:\ist\game\game versions\0.2.8.14\loadtopointer.h
+
+1392103718 e:\ist\game\game versions\0.2.8.14\renderspecific.h
+
+1392154814 e:\ist\game\game versions\0.2.8.14\buildings.h
+
+1392155548 e:\ist\game\game versions\0.2.8.14\stringmanipulation.h
+
+1392155700 source:e:\ist\game\game versions\0.2.9.15\game\interfacehandler.cpp
+	"interfaceHandler.h"
+	"../include.h"
+	"../renderSimple.h"
+	"../mouseAction.h"
+
+1392155676 e:\ist\game\game versions\0.2.9.15\game\interfacehandler.h
+	<string>
+
+1392187728 e:\ist\game\game versions\0.2.9.15\include.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<math.h>
+	<sstream>
+	<cstdlib>
+	<time.h>
+
+1392103756 e:\ist\game\game versions\0.2.9.15\rendersimple.h
+
+1392103718 e:\ist\game\game versions\0.2.9.15\mouseaction.h
+
+1392188138 source:e:\ist\game\game versions\0.2.9.15\game\worldgenerator.cpp
+	"worldGenerator.h"
+	"../include.h"
+	"../probability.h"
+	"../worldArray.h"
+
+1392016986 e:\ist\game\game versions\0.2.9.15\game\worldgenerator.h
+
+1392066496 e:\ist\game\game versions\0.2.9.15\probability.h
+	<cstdlib>
+	<iostream>
+
+1392066648 e:\ist\game\game versions\0.2.9.15\worldarray.h
+
+1392187344 source:e:\ist\game\game versions\0.2.9.15\game\buildings\collectorgas.cpp
+	"collectorGas.h"
+
+1392187344 e:\ist\game\game versions\0.2.9.15\game\buildings\collectorgas.h
+
+1392188494 source:e:\ist\game\game versions\0.2.9.15\main.cpp
+	"include.h"
+	"globals.h"
+	"functions.h"
+
+1392189114 e:\ist\game\game versions\0.2.9.15\globals.h
+
+1392155558 e:\ist\game\game versions\0.2.9.15\functions.h
+	"loadToPointer.h"
+	"renderSimple.h"
+	"mouseAction.h"
+	"renderSpecific.h"
+	"interfaceHandler.h"
+	"worldArray.h"
+	"probability.h"
+	"worldGenerator.h"
+	"buildings.h"
+	"stringManipulation.h"
+
+1391579336 e:\ist\game\game versions\0.2.9.15\loadtopointer.h
+
+1392103718 e:\ist\game\game versions\0.2.9.15\renderspecific.h
+
+1392187928 e:\ist\game\game versions\0.2.9.15\buildings.h
+
+1392155548 e:\ist\game\game versions\0.2.9.15\stringmanipulation.h
+
+1392187344 source:e:\ist\game\game versions\0.2.10.16_real\game\buildings\collectorgas.cpp
+	"collectorGas.h"
+
+1392187344 e:\ist\game\game versions\0.2.10.16_real\game\buildings\collectorgas.h
+
+1392155700 source:e:\ist\game\game versions\0.2.10.16_real\game\interfacehandler.cpp
+	"interfaceHandler.h"
+	"../include.h"
+	"../renderSimple.h"
+	"../mouseAction.h"
+
+1392155676 e:\ist\game\game versions\0.2.10.16_real\game\interfacehandler.h
+	<string>
+
+1392191658 e:\ist\game\game versions\0.2.10.16_real\include.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<math.h>
+	<sstream>
+	<cstdlib>
+	<time.h>
+
+1392103756 e:\ist\game\game versions\0.2.10.16_real\rendersimple.h
+
+1392103718 e:\ist\game\game versions\0.2.10.16_real\mouseaction.h
+
+1392188138 source:e:\ist\game\game versions\0.2.10.16_real\game\worldgenerator.cpp
+	"worldGenerator.h"
+	"../include.h"
+	"../probability.h"
+	"../worldArray.h"
+
+1392016986 e:\ist\game\game versions\0.2.10.16_real\game\worldgenerator.h
+
+1392066496 e:\ist\game\game versions\0.2.10.16_real\probability.h
+	<cstdlib>
+	<iostream>
+
+1392066648 e:\ist\game\game versions\0.2.10.16_real\worldarray.h
+
+1392192526 source:e:\ist\game\game versions\0.2.10.16_real\main.cpp
+	"include.h"
+	"globals.h"
+	"functions.h"
+
+1392191672 e:\ist\game\game versions\0.2.10.16_real\globals.h
+
+1392155558 e:\ist\game\game versions\0.2.10.16_real\functions.h
+	"loadToPointer.h"
+	"renderSimple.h"
+	"mouseAction.h"
+	"renderSpecific.h"
+	"interfaceHandler.h"
+	"worldArray.h"
+	"probability.h"
+	"worldGenerator.h"
+	"buildings.h"
+	"stringManipulation.h"
+
+1391579336 e:\ist\game\game versions\0.2.10.16_real\loadtopointer.h
+
+1392103718 e:\ist\game\game versions\0.2.10.16_real\renderspecific.h
+
+1392191872 e:\ist\game\game versions\0.2.10.16_real\buildings.h
+
+1392192430 e:\ist\game\game versions\0.2.10.16_real\stringmanipulation.h
+
+1392187344 source:e:\ist\game\game versions\0.2.10.16\game\buildings\collectorgas.cpp
+	"collectorGas.h"
+
+1392187344 e:\ist\game\game versions\0.2.10.16\game\buildings\collectorgas.h
+
+1392370294 source:e:\ist\game\game versions\0.2.10.16\game\interfacehandler.cpp
+	"interfaceHandler.h"
+	"../include.h"
+	"../renderSimple.h"
+	"../mouseAction.h"
+
+1392370128 e:\ist\game\game versions\0.2.10.16\game\interfacehandler.h
+	<string>
+
+1392444204 e:\ist\game\game versions\0.2.10.16\include.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<math.h>
+	<sstream>
+	<cstdlib>
+	<time.h>
+
+1392443010 e:\ist\game\game versions\0.2.10.16\rendersimple.h
+
+1392103718 e:\ist\game\game versions\0.2.10.16\mouseaction.h
+
+1392443436 source:e:\ist\game\game versions\0.2.10.16\game\worldgenerator.cpp
+	"worldGenerator.h"
+	"../include.h"
+	"../probability.h"
+	"../worldArray.h"
+
+1392016986 e:\ist\game\game versions\0.2.10.16\game\worldgenerator.h
+
+1392066496 e:\ist\game\game versions\0.2.10.16\probability.h
+	<cstdlib>
+	<iostream>
+
+1392442350 e:\ist\game\game versions\0.2.10.16\worldarray.h
+
+1392445090 source:e:\ist\game\game versions\0.2.10.16\main.cpp
+	"include.h"
+	"globals.h"
+	"functions.h"
+
+1392444204 e:\ist\game\game versions\0.2.10.16\globals.h
+
+1392155558 e:\ist\game\game versions\0.2.10.16\functions.h
+	"loadToPointer.h"
+	"renderSimple.h"
+	"mouseAction.h"
+	"renderSpecific.h"
+	"interfaceHandler.h"
+	"worldArray.h"
+	"probability.h"
+	"worldGenerator.h"
+	"buildings.h"
+	"stringManipulation.h"
+
+1391579336 e:\ist\game\game versions\0.2.10.16\loadtopointer.h
+
+1392103718 e:\ist\game\game versions\0.2.10.16\renderspecific.h
+
+1392445126 e:\ist\game\game versions\0.2.10.16\buildings.h
+
+1392192430 e:\ist\game\game versions\0.2.10.16\stringmanipulation.h
+
+1392187344 source:e:\ist\game\game versions\0.2.11.19\game\buildings\collectorgas.cpp
+	"collectorGas.h"
+
+1392187344 e:\ist\game\game versions\0.2.11.19\game\buildings\collectorgas.h
+
+1392370294 source:e:\ist\game\game versions\0.2.11.19\game\interfacehandler.cpp
+	"interfaceHandler.h"
+	"../include.h"
+	"../renderSimple.h"
+	"../mouseAction.h"
+
+1392370128 e:\ist\game\game versions\0.2.11.19\game\interfacehandler.h
+	<string>
+
+1392506670 e:\ist\game\game versions\0.2.11.19\include.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<math.h>
+	<sstream>
+	<cstdlib>
+	<time.h>
+
+1392443010 e:\ist\game\game versions\0.2.11.19\rendersimple.h
+
+1392103718 e:\ist\game\game versions\0.2.11.19\mouseaction.h
+
+1392443436 source:e:\ist\game\game versions\0.2.11.19\game\worldgenerator.cpp
+	"worldGenerator.h"
+	"../include.h"
+	"../probability.h"
+	"../worldArray.h"
+
+1392016986 e:\ist\game\game versions\0.2.11.19\game\worldgenerator.h
+
+1392066496 e:\ist\game\game versions\0.2.11.19\probability.h
+	<cstdlib>
+	<iostream>
+
+1392442350 e:\ist\game\game versions\0.2.11.19\worldarray.h
+
+1392445090 source:e:\ist\game\game versions\0.2.11.19\main.cpp
+	"include.h"
+	"globals.h"
+	"functions.h"
+
+1392445424 e:\ist\game\game versions\0.2.11.19\globals.h
+
+1392155558 e:\ist\game\game versions\0.2.11.19\functions.h
+	"loadToPointer.h"
+	"renderSimple.h"
+	"mouseAction.h"
+	"renderSpecific.h"
+	"interfaceHandler.h"
+	"worldArray.h"
+	"probability.h"
+	"worldGenerator.h"
+	"buildings.h"
+	"stringManipulation.h"
+
+1391579336 e:\ist\game\game versions\0.2.11.19\loadtopointer.h
+
+1392103718 e:\ist\game\game versions\0.2.11.19\renderspecific.h
+
+1392445126 e:\ist\game\game versions\0.2.11.19\buildings.h
+
+1392192430 e:\ist\game\game versions\0.2.11.19\stringmanipulation.h
+
+1392187344 source:e:\ist\game\game versions\0.2.12.22\game\buildings\collectorgas.cpp
+	"collectorGas.h"
+
+1392187344 e:\ist\game\game versions\0.2.12.22\game\buildings\collectorgas.h
+
+1392370294 source:e:\ist\game\game versions\0.2.12.22\game\interfacehandler.cpp
+	"interfaceHandler.h"
+	"../include.h"
+	"../renderSimple.h"
+	"../mouseAction.h"
+
+1392370128 e:\ist\game\game versions\0.2.12.22\game\interfacehandler.h
+	<string>
+
+1393053416 e:\ist\game\game versions\0.2.12.22\include.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<math.h>
+	<sstream>
+	<cstdlib>
+	<time.h>
+
+1392443010 e:\ist\game\game versions\0.2.12.22\rendersimple.h
+
+1393049676 e:\ist\game\game versions\0.2.12.22\mouseaction.h
+
+1393053704 source:e:\ist\game\game versions\0.2.12.22\game\worldgenerator.cpp
+	"worldGenerator.h"
+	"../include.h"
+	"../probability.h"
+	"../worldArray.h"
+
+1392016986 e:\ist\game\game versions\0.2.12.22\game\worldgenerator.h
+
+1392066496 e:\ist\game\game versions\0.2.12.22\probability.h
+	<cstdlib>
+	<iostream>
+
+1392442350 e:\ist\game\game versions\0.2.12.22\worldarray.h
+
+1393054086 source:e:\ist\game\game versions\0.2.12.22\main.cpp
+	"include.h"
+	"globals.h"
+	"functions.h"
+
+1393053416 e:\ist\game\game versions\0.2.12.22\globals.h
+
+1392155558 e:\ist\game\game versions\0.2.12.22\functions.h
+	"loadToPointer.h"
+	"renderSimple.h"
+	"mouseAction.h"
+	"renderSpecific.h"
+	"interfaceHandler.h"
+	"worldArray.h"
+	"probability.h"
+	"worldGenerator.h"
+	"buildings.h"
+	"stringManipulation.h"
+
+1391579336 e:\ist\game\game versions\0.2.12.22\loadtopointer.h
+
+1392103718 e:\ist\game\game versions\0.2.12.22\renderspecific.h
+
+1392445126 e:\ist\game\game versions\0.2.12.22\buildings.h
+
+1392192430 e:\ist\game\game versions\0.2.12.22\stringmanipulation.h
+
+1392187344 source:e:\ist\game\game versions\0.3.0.0\game\buildings\collectorgas.cpp
+	"collectorGas.h"
+
+1392187344 e:\ist\game\game versions\0.3.0.0\game\buildings\collectorgas.h
+
+1392370294 source:e:\ist\game\game versions\0.3.0.0\game\interfacehandler.cpp
+	"interfaceHandler.h"
+	"../include.h"
+	"../renderSimple.h"
+	"../mouseAction.h"
+
+1392370128 e:\ist\game\game versions\0.3.0.0\game\interfacehandler.h
+	<string>
+
+1393140902 e:\ist\game\game versions\0.3.0.0\include.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<math.h>
+	<sstream>
+	<cstdlib>
+	<time.h>
+
+1392443010 e:\ist\game\game versions\0.3.0.0\rendersimple.h
+
+1393049676 e:\ist\game\game versions\0.3.0.0\mouseaction.h
+
+1393141876 source:e:\ist\game\game versions\0.3.0.0\game\worldgenerator.cpp
+	"worldGenerator.h"
+	"../include.h"
+	"../probability.h"
+	"../worldArray.h"
+
+1392016986 e:\ist\game\game versions\0.3.0.0\game\worldgenerator.h
+
+1392066496 e:\ist\game\game versions\0.3.0.0\probability.h
+	<cstdlib>
+	<iostream>
+
+1392442350 e:\ist\game\game versions\0.3.0.0\worldarray.h
+
+1393144946 source:e:\ist\game\game versions\0.3.0.0\main.cpp
+	"include.h"
+	"globals.h"
+	"functions.h"
+
+1393143204 e:\ist\game\game versions\0.3.0.0\globals.h
+
+1392155558 e:\ist\game\game versions\0.3.0.0\functions.h
+	"loadToPointer.h"
+	"renderSimple.h"
+	"mouseAction.h"
+	"renderSpecific.h"
+	"interfaceHandler.h"
+	"worldArray.h"
+	"probability.h"
+	"worldGenerator.h"
+	"buildings.h"
+	"stringManipulation.h"
+
+1391579336 e:\ist\game\game versions\0.3.0.0\loadtopointer.h
+
+1392103718 e:\ist\game\game versions\0.3.0.0\renderspecific.h
+
+1393142852 e:\ist\game\game versions\0.3.0.0\buildings.h
+
+1392192430 e:\ist\game\game versions\0.3.0.0\stringmanipulation.h
+
+1392187344 source:e:\ist\game\game versions\0.3.1.2\game\buildings\collectorgas.cpp
+	"collectorGas.h"
+
+1392187344 e:\ist\game\game versions\0.3.1.2\game\buildings\collectorgas.h
+
+1393745340 source:e:\ist\game\game versions\0.3.1.2\game\interfacehandler.cpp
+	"interfaceHandler.h"
+	"../include.h"
+	"../renderSimple.h"
+	"../mouseAction.h"
+
+1392370128 e:\ist\game\game versions\0.3.1.2\game\interfacehandler.h
+	<string>
+
+1393474570 e:\ist\game\game versions\0.3.1.2\include.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<fstream>
+	<math.h>
+	<sstream>
+	<cstdlib>
+	<time.h>
+
+1392443010 e:\ist\game\game versions\0.3.1.2\rendersimple.h
+
+1393049676 e:\ist\game\game versions\0.3.1.2\mouseaction.h
+
+1393399126 source:e:\ist\game\game versions\0.3.1.2\game\worldgenerator.cpp
+	"worldGenerator.h"
+	"../include.h"
+	"../probability.h"
+	"../worldArray.h"
+
+1392016986 e:\ist\game\game versions\0.3.1.2\game\worldgenerator.h
+
+1393399126 e:\ist\game\game versions\0.3.1.2\probability.h
+	<cstdlib>
+	<iostream>
+
+1393399126 e:\ist\game\game versions\0.3.1.2\worldarray.h
+
+1393746918 source:e:\ist\game\game versions\0.3.1.2\main.cpp
+	"include.h"
+	"globals.h"
+	"functions.h"
+
+1393745118 e:\ist\game\game versions\0.3.1.2\globals.h
+
+1392155558 e:\ist\game\game versions\0.3.1.2\functions.h
+	"loadToPointer.h"
+	"renderSimple.h"
+	"mouseAction.h"
+	"renderSpecific.h"
+	"interfaceHandler.h"
+	"worldArray.h"
+	"probability.h"
+	"worldGenerator.h"
+	"buildings.h"
+	"stringManipulation.h"
+
+1391579336 e:\ist\game\game versions\0.3.1.2\loadtopointer.h
+
+1392103718 e:\ist\game\game versions\0.3.1.2\renderspecific.h
+
+1393746662 e:\ist\game\game versions\0.3.1.2\buildings.h
+
+1392192430 e:\ist\game\game versions\0.3.1.2\stringmanipulation.h
+
+1392183744 source:e:\ist\game\game versions\0.3.2.4\game\buildings\collectorgas.cpp
+	"collectorGas.h"
+
+1392183744 e:\ist\game\game versions\0.3.2.4\game\buildings\collectorgas.h
+
+1393803130 source:e:\ist\game\game versions\0.3.2.4\game\interfacehandler.cpp
+	"interfaceHandler.h"
+	"../include.h"
+	"../renderSimple.h"
+	"../mouseAction.h"
+
+1392366528 e:\ist\game\game versions\0.3.2.4\game\interfacehandler.h
+	<string>
+
+1394073104 e:\ist\game\game versions\0.3.2.4\include.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<fstream>
+	<math.h>
+	<sstream>
+	<cstdlib>
+	<time.h>
+
+1394004992 e:\ist\game\game versions\0.3.2.4\rendersimple.h
+
+1394071480 e:\ist\game\game versions\0.3.2.4\mouseaction.h
+
+1393395526 source:e:\ist\game\game versions\0.3.2.4\game\worldgenerator.cpp
+	"worldGenerator.h"
+	"../include.h"
+	"../probability.h"
+	"../worldArray.h"
+
+1392013386 e:\ist\game\game versions\0.3.2.4\game\worldgenerator.h
+
+1393395526 e:\ist\game\game versions\0.3.2.4\probability.h
+	<cstdlib>
+	<iostream>
+
+1393395526 e:\ist\game\game versions\0.3.2.4\worldarray.h
+
+1394073216 source:e:\ist\game\game versions\0.3.2.4\main.cpp
+	"include.h"
+	"globals.h"
+	"functions.h"
+
+1394073150 e:\ist\game\game versions\0.3.2.4\globals.h
+
+1392151958 e:\ist\game\game versions\0.3.2.4\functions.h
+	"loadToPointer.h"
+	"renderSimple.h"
+	"mouseAction.h"
+	"renderSpecific.h"
+	"interfaceHandler.h"
+	"worldArray.h"
+	"probability.h"
+	"worldGenerator.h"
+	"buildings.h"
+	"stringManipulation.h"
+
+1391575736 e:\ist\game\game versions\0.3.2.4\loadtopointer.h
+
+1394073568 e:\ist\game\game versions\0.3.2.4\renderspecific.h
+
+1393743062 e:\ist\game\game versions\0.3.2.4\buildings.h
+
+1393803374 e:\ist\game\game versions\0.3.2.4\stringmanipulation.h
+
+1392187344 source:c:\users\ajhj\desktop\0.3.2.4_flawed\game\buildings\collectorgas.cpp
+	"collectorGas.h"
+
+1392187344 c:\users\ajhj\desktop\0.3.2.4_flawed\game\buildings\collectorgas.h
+
+1393806730 source:c:\users\ajhj\desktop\0.3.2.4_flawed\game\interfacehandler.cpp
+	"interfaceHandler.h"
+	"../include.h"
+	"../renderSimple.h"
+	"../mouseAction.h"
+
+1392370128 c:\users\ajhj\desktop\0.3.2.4_flawed\game\interfacehandler.h
+	<string>
+
+1394001313 c:\users\ajhj\desktop\0.3.2.4_flawed\include.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<fstream>
+	<math.h>
+	<sstream>
+	<cstdlib>
+	<time.h>
+
+1394001080 c:\users\ajhj\desktop\0.3.2.4_flawed\rendersimple.h
+
+1394002080 c:\users\ajhj\desktop\0.3.2.4_flawed\mouseaction.h
+
+1393399126 source:c:\users\ajhj\desktop\0.3.2.4_flawed\game\worldgenerator.cpp
+	"worldGenerator.h"
+	"../include.h"
+	"../probability.h"
+	"../worldArray.h"
+
+1392016986 c:\users\ajhj\desktop\0.3.2.4_flawed\game\worldgenerator.h
+
+1393399126 c:\users\ajhj\desktop\0.3.2.4_flawed\probability.h
+	<cstdlib>
+	<iostream>
+
+1393399126 c:\users\ajhj\desktop\0.3.2.4_flawed\worldarray.h
+
+1394002778 source:c:\users\ajhj\desktop\0.3.2.4_flawed\main.cpp
+	"include.h"
+	"globals.h"
+	"functions.h"
+
+1394001303 c:\users\ajhj\desktop\0.3.2.4_flawed\globals.h
+
+1392155558 c:\users\ajhj\desktop\0.3.2.4_flawed\functions.h
+	"loadToPointer.h"
+	"renderSimple.h"
+	"mouseAction.h"
+	"renderSpecific.h"
+	"interfaceHandler.h"
+	"worldArray.h"
+	"probability.h"
+	"worldGenerator.h"
+	"buildings.h"
+	"stringManipulation.h"
+
+1391579336 c:\users\ajhj\desktop\0.3.2.4_flawed\loadtopointer.h
+
+1392103718 c:\users\ajhj\desktop\0.3.2.4_flawed\renderspecific.h
+
+1393746662 c:\users\ajhj\desktop\0.3.2.4_flawed\buildings.h
+
+1393806974 c:\users\ajhj\desktop\0.3.2.4_flawed\stringmanipulation.h
+
